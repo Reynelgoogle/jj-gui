@@ -1,0 +1,5 @@
+{
+  "name": "JJ GUI - Jujutsu Version Control",
+  "description": "Interfaz gráfica web y de escritorio para Jujutsu (jj): grafo DAG, visor de diffs, estado de la copia de trabajo y gestión de repositorios.",
+  "requestFramePermissions": []
+}
